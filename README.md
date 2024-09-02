@@ -1,12 +1,8 @@
 #portfolio <br>
 #webDevelopment <br>
 
-Source - Google, Youtube and Chatgpt <br>
-
-Html file - index.html <br>
-CSS file - style.css <br>
-Profile Picture - ProfileDP.jpg <br>
-Resume - myCv.pdf <br>
+Source - <br>
+Google, Youtube and Chatgpt <br>
 
 Note* - <br>
 
