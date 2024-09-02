@@ -1,21 +1,37 @@
-1. Introduction:Briefly introduce yourself (Name, Profession, and a short description).Mention your goal or what you're aiming to achieve with your portfolio (e.g., showcasing your work, skills, etc.).
+"**Portfolio | Tushar Satpathy**" <br>
 
-Table of Contents:If your portfolio has multiple sections, include a table of contents for easy navigation.
+Introduction : <br>
+Welcome to my personal portfolio! I'm Tushar Satpathy, a BCA student with a passion for full-stack web development and software engineering. This portfolio showcases my skills, projects, and experience. <br>
 
-Portfolio Overview:Provide a brief overview of your portfolio's structure, including sections like "About Me," "Projects," "Skills," "Experience," "Education," etc.Mention any standout features of your portfolio (e.g., interactive elements, unique design aspects).
+Table of Contents : <br>
+• About Me<br>
+• Projects<br>
+• Skills<br>
+• Contact<br>
+• Technologies Used<br>
 
-Projects:Highlight key projects included in your portfolio.Provide a brief description of each project, technologies used, and links to the live demo or GitHub repositories.Emphasize any projects that are particularly significant or demonstrate your strongest skills.
+About Me : <br>
+I’m a BCA student who enjoys building web applications with languages like C, C++, Java, Python, and JavaScript.<br>
+I'm also focused on mastering Data Structure Algorithms to enhance performance and solve complex problems.<br>
 
-Skills:List the technical skills you have showcased in your portfolio.You can categorize them (e.g., Frontend, Backend, Database, Tools, etc.).
+Projects : <br>
+Completed Projects<br>
+Project 1: Guess the Number Game (Beginner level)
+Project 2: E-Learning PLatform (Continued)
+Work in Progress<br>
+More projects are on the way!<br>
 
-Contact Information:Include your contact details or a link to the contact section of your portfolio.Mention any social media profiles or professional networks (e.g., LinkedIn, GitHub, Twitter) where people can connect with you.
+Skills : <br>
+• Languages: C, C++, Java, Python, JavaScript<br>
+• Databases: MySQL, MongoDB (learning)<br>
+• Tools: Excel, PowerPoint, MS Word, MySQL Workbench<br>
+• Platforms: Replit, VS Code, HackerRank, LeetCode, GitHub<br>
 
-Setup Instructions (if applicable):If your portfolio includes any projects that require setup, provide step-by-step instructions on how to clone the repository and run it locally.
+Contact : <br>
+Email: tusharsatpathy01@gmail.com<br>
+Phone: +91 82606 18906<br>
 
-Technologies Used:List the technologies, frameworks, and tools you used to build your portfolio (e.g., HTML, CSS, JavaScript, React, etc.).
-
-Future Enhancements (optional):Mention any planned updates or features you intend to add to your portfolio in the future.
-
-Acknowledgments (optional):Give credit to any tutorials, resources, or people who helped you in creating your portfolio.
-
-License (if applicable):Specify the license under which your portfolio is released if you're making it open-source.
+Technologies Used : <br>
+• Frontend : HTML, CSS, JavaScript, Unicons<br>
+• Design: Responsive design with custom CSS<br>
+• Version Control: Git and GitHub<br>
