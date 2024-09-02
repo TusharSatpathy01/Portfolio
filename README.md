@@ -32,6 +32,6 @@ Email: tusharsatpathy01@gmail.com<br>
 Phone: +91 82606 18906<br>
 
 # Technologies Used : <br>
-• Frontend : HTML, CSS, JavaScript, Unicons<br>
+• Frontend : HTML, CSS, Unicons<br>
 • Design: Responsive design with custom CSS<br>
 • Version Control: Git and GitHub<br>
