@@ -311,6 +311,7 @@ h3{
 }
 
 /* ----- ABOUT / SKILLS BOX ----- */
+
 #skills ul {
     list-style-type: none;
     padding: 0;
@@ -318,7 +319,7 @@ h3{
 
 #skills ul li {
     background-color: #f4f4f4;
-    text-align: centre;
+    text-align: center;
     margin: 0.5em 0;
     padding: 0.5em;
     border-radius: 5px;
@@ -463,7 +464,131 @@ h3{
     z-index: 2;
 }
 
+/* ----- CERTIFICATES SECTION ----- */
+
+/* ----- CERTIFICATES SECTION ----- */
+
+.certificates {
+    padding: 50px 20px;
+    background: var(--background-color);
+    text-align: center;
+}
+
+.certificates .top-header {
+    margin-bottom: 40px;
+}
+
+.certificates span {
+    font-size: 1.2rem;
+    color: var(--secondary-color);
+}
+
+.certificate-container {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap */
+    justify-content: center;
+    gap: 20px; /* Space between items */
+}
+
+/* Ensure each card takes up 25% of the container minus the gap */
+.certificate-card {
+    background: var(--card-background);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    flex: 1 1 calc(25% - 20px); /* Four cards per row */
+    max-width: calc(25% - 20px); /* Limit max-width */
+    text-align: left;
+    transition: transform 0.2s;
+}
+
+/* On hover, lift the card slightly */
+.certificate-card:hover {
+    transform: translateY(-5px);
+}
+
+.certificate-card img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+/* Scale image slightly on hover */
+.certificate-card:hover img {
+    transform: scale(1.05);
+}
+
+.certificate-info {
+    padding: 20px;
+}
+
+.certificate-info h2 {
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+}
+
+.certificate-info p {
+    font-size: 1rem;
+    color: var(--text-color);
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+    .certificate-card {
+        flex: 1 1 calc(33.33% - 20px); /* Three cards per row */
+        max-width: calc(33.33% - 20px);
+    }
+}
+
+@media (max-width: 900px) {
+    .certificate-card {
+        flex: 1 1 calc(50% - 20px); /* Two cards per row */
+        max-width: calc(50% - 20px);
+    }
+}
+
+@media (max-width: 600px) {
+    .certificate-card {
+        flex: 1 1 100%; /* One card per row */
+        max-width: 100%;
+    }
+}
+
+
+
+/* ----- SECTION ----- */
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: var(--background-color);
+}
+
+.top-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* ----- ROW ----- */
+.row {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+/* ----- COLUMN ----- */
+.col {
+    display: flex;
+    justify-content: center;
+}
+
+
 /* ----- CONTACT BOX ----- */
+
 .contact-info{
     position: relative;
     display: flex;
@@ -500,52 +625,6 @@ h3{
 .contact-info:hover.contact-info i{
     color: #777;
     z-index: 2;
-}
-
-/* ----- CONTACT FORM ----- */
-.form-control{
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    width: 100%;
-}
-.form-inputs{
-    display: flex;
-    gap: 10px;
-    width: 100%;
-}
-.input-field{
-    width: 50%;
-    height: 55px;
-    background: transparent;
-    border: 2px solid #AAA;
-    border-radius: 10px;
-    padding-inline: 20px;
-    outline: none;
-}
-textarea{
-    width: 100%;
-    height: 250px;
-    background: transparent;
-    border: 2px solid #AAA;
-    border-radius: 10px;
-    padding: 15px 20px;
-    outline: none;
-    resize: none;
-}
-.form-button>.btn{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: var(--second-color);
-    color: var(--color-white);
-}
-.form-button>.btn:hover{
-    background: #00B5E7;
-}
-.form-button i{
-    font-size: 18px;
-    rotate: -45deg;
 }
 
 /* ----- FOOTER BOX ----- */
