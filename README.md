@@ -29,7 +29,7 @@ More projects are on the way!<br>
 
 # Contact : <br>
 Email: tusharsatpathy01@gmail.com<br>
-Phone: +91 82606 18906<br>
+Phone: +91 8260618906<br>
 
 # Technologies Used : <br>
 • Frontend : HTML, CSS, Unicons<br>
