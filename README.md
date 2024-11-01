@@ -7,12 +7,12 @@ Welcome to my personal portfolio! I'm Tushar Satpathy, a BCA student with a pass
 • About Me<br>
 • Projects<br>
 • Skills<br>
+• Acievements<br>
 • Contact<br>
 • Technologies Used<br>
 
 # About Me : <br>
-I’m a BCA student who enjoys building web applications with languages like C, C++, Java, Python, and JavaScript.<br>
-I'm also focused on mastering Data Structure Algorithms to enhance performance and solve complex problems.<br>
+I am a final-year Bachelor of Computer Applications (BCA) student actively upskilling in Java and MySQL. Currently focused on enhancing my SQL and Java skills, I aim to become a proficient developer. I have experience working on basic-level projects as part of my coursework and am now seeking an internship to gain hands-on experience with real-world projects.
 
 # Projects : <br>
 Completed Projects<br>
@@ -22,10 +22,10 @@ Work in Progress<br>
 More projects are on the way!<br>
 
 # Skills : <br>
-• Languages: C, C++, Java, Python, JavaScript<br>
+• Languages: C, C++,Core Java, Python<br>
 • Databases: MySQL, MongoDB (learning)<br>
 • Tools: Excel, PowerPoint, MS Word, MySQL Workbench<br>
-• Platforms: Replit, VS Code, HackerRank, LeetCode, GitHub<br>
+• Platforms: VS Code, HackerRank, LeetCode, GitHub<br>
 
 # Contact : <br>
 Email: tusharsatpathy01@gmail.com<br>
